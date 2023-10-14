@@ -1,6 +1,6 @@
 # HR Analytics Proficiency Dashboard
 
-[![image](https://github.com/Zeed-Almelhem/HR-Analytics-Proficiency-with-Power-BI/assets/142832914/294027d0-1898-482d-beac-91252229be63)](http://zeed-almelhem.com)
+[![HR Dashboard](https://github.com/Zeed-Almelhem/HR-Analytics-Proficiency-with-Power-BI/assets/142832914/294027d0-1898-482d-beac-91252229be63)](http://zeed-almelhem.com)
 
 
 ## Project Description
