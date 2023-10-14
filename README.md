@@ -13,3 +13,8 @@ This Power BI project focuses on creating an interactive HR dashboard that offer
 - Power BI dashboard design
 - Talent management insights
 
+
+## Interact with the Dashboard
+
+To interact with the dashboard, please visit [zeed-almelhem.com](http://zeed-almelhem.com), where you can explore and interact with the HR Performance and Talent Dashboard.
+
