@@ -2,6 +2,10 @@
 
 [![HR Dashboard](https://github.com/Zeed-Almelhem/HR-Analytics-Proficiency-with-Power-BI/assets/142832914/294027d0-1898-482d-beac-91252229be63)](http://zeed-almelhem.com)
 
+![image](https://github.com/Zeed-Almelhem/HR-Analytics-Proficiency-with-Power-BI/assets/142832914/4bfc12a0-4e6f-4ab6-8b8f-3d35a2712ff7)
+
+![image](https://github.com/Zeed-Almelhem/HR-Analytics-Proficiency-with-Power-BI/assets/142832914/6d7c7652-ab5e-4f0d-ba09-ac20f03e88ec)
+
 
 ## Project Description
 
